@@ -99,7 +99,7 @@
             <jsp:include page="<%=Const.ViewURIs.STATUS_MESSAGE%>" />
             <div class="well well-plain">
                 <div class="row">
-                    <div class="col-md-2">
+                    <div class="col-md-3">
                         <div class="checkbox">
                             <input id="option-check" type="checkbox">
                             <label for="option-check">Show More
